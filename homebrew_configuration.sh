@@ -25,7 +25,9 @@ brew install speedtest-cli                  # speedtest
 brew install tree                           # http://mama.indstate.edu/users/ice/tree/ - a recursive directory listing command
 brew install nmap
 brew install tcpflow
+brew install tcptrace
 brew install ack
+brew install htop
 brew install lynx
 brew install tmux                           # http://tmux.sourceforge.net - tmux is a terminal multiplexer (screen++)
 brew install ssh-copy-id                    # http://openssh.org/ - install your public key in a remote machine's authorized_keys
