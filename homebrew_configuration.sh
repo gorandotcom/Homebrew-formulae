@@ -37,7 +37,7 @@ brew cask install atom                      # Atom editor
 brew cask install java                      # latest java
 brew cask install bartender                 # organize your menu bar apps
 brew cask install box-drive                 # box drive
-
+brew cask install dropbox                   # dropbox
 
 ### homebrew cleanup
 brew cleanup
